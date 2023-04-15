@@ -4675,3 +4675,5 @@ function sections:configloader(props)
 	setmetatable(configloader, configloaders)
 	return configloader 
 end
+
+return library
